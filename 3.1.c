@@ -4,8 +4,6 @@
 int main(void)
 {
     int table[2][4];
-    //string name = get_string("Enter name: ");
-
     for (int j = 0; j <= 2; j++)
     {
         //get ID
